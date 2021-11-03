@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.lemonadetxt
+{
+    font-size: 50px;
+    letter-spacing: 15px;
+    
+}
+
+
+#lemonade1
+{
+    width: 70px;
+    height: 30px;
+    background: orange;
+    border: none;
+}
+
+#lemonadepr1
+{
+    position: absolute;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+#lemonade2
+{
+    width: 70px;
+    height: 30px;
+    background: orange;
+    border: none;
+}
+
+#lemonadepr2
+{
+    position: absolute;
+    text-align: center;
+    margin-right: 20px;
+    
+}
+.zoro  
+{
+    width: 400px;
+    height: 500px;
+    object-position: 30% 100%;
+    object-fit: cover;
+}
+.zoro1  
+{
+    width: 400px;
+    height: 430px;
+    object-position: 30% 100%;
+    object-fit: cover;
+}
+
+.lmpr
+{
+    margin-right: 20px;
+    position: absolute;
+}
